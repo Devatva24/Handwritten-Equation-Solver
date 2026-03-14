@@ -125,6 +125,6 @@ The Handwritten Equation Solver project addresses the challenge of accurately in
 
 ### 📢 **Conclusion**
 
-In conclusion, the handwritten equation solver utilizing deep learning techniques, including Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), has demonstrated promising accuracy levels. The CNN-based approach achieved an impressive accuracy of `97.57%`, while the RNN-based method achieved a respectable accuracy of `76.32%`.
+In conclusion, the handwritten equation solver utilizing deep learning techniques, including Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), has demonstrated promising accuracy levels. The CNN-based approach achieved an impressive accuracy of `96.97%`, while the RNN-based method achieved a respectable accuracy of `74.18%`.
 
 The `CNN model` excelled in accurately recognizing and classifying individual handwritten characters within the equations. Its ability to effectively capture spatial hierarchies and local patterns in the input images contributed to its high accuracy. With its deep layers and convolutional operations, the CNN was capable of learning complex features directly from the pixel values, enabling robust classification of handwritten characters.
