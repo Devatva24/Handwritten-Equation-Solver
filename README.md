@@ -1,4 +1,4 @@
-# ✍️ Handwritten Equation Solver using Deep Learning
+# ✍️ Handwritten Equation Solver using Deep Learning 
 
 > A deep learning pipeline using CNNs and RNNs to recognize and solve handwritten mathematical equations, with a Streamlit web app interface.
 
